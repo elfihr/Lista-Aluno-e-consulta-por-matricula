@@ -38,6 +38,9 @@ public class Main {
                 matricula = leia.nextInt();
                 //System.out.println(" Matricula"+Matricula[matricula]);
             }
+            else{
+                System.out.println("\n Digite um numero Valido!!!\n");
+            }
         }
 
 
