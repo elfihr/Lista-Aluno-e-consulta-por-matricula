@@ -54,6 +54,7 @@ public class Main {
         System.out.println("1 - Adicionar Aluno e Matricula");
         System.out.println("2 - Listar Alunos ");
         System.out.println("3 - Consulta Por Matricula ");
+        System.out.println("0 - Sair do Sistema ");
         System.out.print("Digite ===> ");
     }
 }
